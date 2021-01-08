@@ -1,4 +1,4 @@
-package cn.com.dmg.interviews2.volitile;
+package cn.com.dmg.interviews2.myvolatile;
 
 
 import java.util.concurrent.atomic.AtomicInteger;
